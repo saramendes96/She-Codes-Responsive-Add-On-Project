@@ -1,3 +1,7 @@
+.container {
+  max-width: 1400px;
+}
+
 header {
   background-image: url("../images/Dog-image-1.webp");
   background-repeat: no-repeat;
