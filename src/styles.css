@@ -43,4 +43,5 @@ header a {
   text-transform: uppercase;
   text-decoration: none;
   background: white;
+  display: inline-block;
 }
