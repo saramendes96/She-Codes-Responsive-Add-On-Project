@@ -40,4 +40,5 @@ header a {
   line-height: 1.5;
   text-align: center;
   letter-spacing: 3px;
+  text-transform: uppercase;
 }
