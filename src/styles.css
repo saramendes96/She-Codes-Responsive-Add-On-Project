@@ -45,3 +45,9 @@ header a {
   background: white;
   display: inline-block;
 }
+
+@media (max-width: 800px){
+  header {
+    padding: 60px 0;
+  }
+}
