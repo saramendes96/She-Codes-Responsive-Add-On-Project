@@ -58,4 +58,8 @@ header a {
   header h2 {
     font-size: 20px;
   }
+
+  header h3 {
+    font-size: 12px;
+  }
 }
