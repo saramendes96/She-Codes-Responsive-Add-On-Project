@@ -45,6 +45,7 @@ header a {
   text-decoration: none;
   background: white;
   display: inline-block;
+   padding: 12px 24px;
 }
 
 @media (max-width: 800px){
