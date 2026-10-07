@@ -18,6 +18,10 @@ section {
   margin: 0 auto;
 }
 
+main {
+  padding: 80px 40px;
+}
+
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url("../images/Dog-image-1.webp");
   background-repeat: no-repeat;
