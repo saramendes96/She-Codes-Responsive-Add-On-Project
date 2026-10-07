@@ -69,6 +69,10 @@ footer p {
   line-height: 1.5;
 }
 
+footer ul {
+  padding: 0;
+}
+
 footer li {
   list-style: none;
 }
