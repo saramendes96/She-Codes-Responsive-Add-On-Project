@@ -109,4 +109,8 @@ footer li {
   header h3 {
     font-size: 12px;
   }
+
+  .grid {
+     grid-template-columns: 1fr;
+  }
 }
