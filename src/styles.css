@@ -13,6 +13,10 @@ body {
   grid-gap: 64px;
 }
 
+.grid-2-columns {
+  grid-template-columns: 1fr 1fr;
+}
+
 section {
   max-width: 1200px;
   margin: 0 auto;
