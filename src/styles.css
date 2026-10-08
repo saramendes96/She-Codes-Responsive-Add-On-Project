@@ -17,6 +17,10 @@ body {
   grid-template-columns: 1fr 1fr;
 }
 
+.img-responsive {
+  max-width: 100%;
+}
+
 section {
   max-width: 1200px;
   margin: 0 auto;
