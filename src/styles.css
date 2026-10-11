@@ -37,6 +37,13 @@ body {
   max-width: 100%;
 }
 
+.card {
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+
 section {
   max-width: 1200px;
   margin: 0 auto;
