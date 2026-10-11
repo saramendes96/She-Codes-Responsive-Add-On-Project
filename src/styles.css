@@ -29,6 +29,10 @@ body {
   text-align: center;
 }
 
+.secondary {
+  padding: 60px 40px;
+}
+
 .img-responsive {
   max-width: 100%;
 }
