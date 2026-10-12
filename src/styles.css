@@ -64,6 +64,11 @@ body {
   margin-bottom: 8px;
 }
 
+.card-body p {
+  line-height: 1.6;
+}
+
+
 section {
   max-width: 1200px;
   margin: 0 auto;
