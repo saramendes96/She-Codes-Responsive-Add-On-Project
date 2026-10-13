@@ -33,6 +33,10 @@ body {
   padding: 60px 40px;
 }
 
+.secondary > p {
+  margin-bottom: 40px;
+}
+
 .img-responsive {
   max-width: 100%;
 }
