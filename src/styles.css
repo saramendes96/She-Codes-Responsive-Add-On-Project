@@ -95,6 +95,43 @@ section {
   padding: 100px 0;
 }
 
+
+.section-intro {
+  margin: 20px auto 40px;
+  max-width: 700px;
+  line-height: 1.6;
+}
+
+.embed-card {
+  background: white;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+}
+
+.embed {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: 0;
+}
+
+.embed-content {
+  padding: 24px;
+}
+
+.embed-content h4 {
+  font-size: 20px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+.embed-content p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 0;
+}
+
 main {
   padding: 50px 40px;
 }
@@ -207,4 +244,7 @@ footer a:hover {
   .grid {
      grid-template-columns: 1fr;
   }
+
+  .embed-card {
+    margin-bottom: 24px;
 }
