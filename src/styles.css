@@ -38,7 +38,9 @@ body {
 }
 
 .img-responsive {
+  display: block;
   max-width: 100%;
+  height: auto;
 }
 
 .card {
@@ -109,7 +111,6 @@ section {
 }
 
 
-/* Tabela HTML */
 .table-container {
   width: 100%;
   overflow-x: auto;
