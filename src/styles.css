@@ -233,15 +233,21 @@ footer {
   padding: 40px;
 }
 
+footer .grid {
+  align-items: start;
+}
+
 footer h3 { 
   font-size: 20px; 
   margin-bottom: 20px; 
+  margin-top: 0;
 }
 
 footer p {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
+  margin-top: 0;
 }
 
 footer ul {
@@ -255,7 +261,8 @@ footer li {
 
 footer a { 
   color: white; 
-  text-decoration: none; 
+  text-decoration: none;
+   overflow-wrap: anywhere; 
 }
 
 footer a:hover { 
