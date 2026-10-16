@@ -261,13 +261,14 @@ footer a:hover {
 }
 
 
-@media (max-width: 800px){
+@media (max-width: 800px) {
   header {
-    padding: 60px 0;
+    padding: 60px 20px;
   }
 
   header h1 {
     font-size: 48px;
+    line-height: 1.2;
   }
 
   header h2 {
@@ -275,14 +276,27 @@ footer a:hover {
   }
 
   header h3 {
-    font-size: 12px;
+    font-size: 16px;
   }
 
   .grid {
-     grid-template-columns: 1fr;
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  section {
+    padding: 50px 20px;
+  }
+
+  main {
+    padding: 30px 20px;
+  }
+
+  .secondary {
+    padding: 30px 20px 40px;
   }
 
   .embed-card {
     margin-bottom: 24px;
-}
+  }
 }
