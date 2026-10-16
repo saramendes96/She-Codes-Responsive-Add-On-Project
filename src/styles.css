@@ -52,6 +52,12 @@ body {
   width: 100%;
   height: 220px;
   object-fit: cover;
+  filter: saturate(85%);
+  transition: filter 0.3s ease;
+}
+
+.card-header img:hover {
+  filter: saturate(120%);
 }
 
 .card-body {
